@@ -1,0 +1,10 @@
+<BookmarksTree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FormatVersion>1.2.0</FormatVersion>
+  <TreeItems>
+    <TreeItem xsi:type="BookmarkFolderViewModel">
+      <Children />
+      <Name>account-book.sln</Name>
+      <eIDType>IT_UNKNOWN</eIDType>
+    </TreeItem>
+  </TreeItems>
+</BookmarksTree>
