@@ -1,0 +1,14 @@
+E:\kikao-apps\account-book\AccountBook.CommandHandlers\bin\Debug\AccountBook.CommandHandlers.dll
+E:\kikao-apps\account-book\AccountBook.CommandHandlers\bin\Debug\AccountBook.CommandHandlers.pdb
+E:\kikao-apps\account-book\AccountBook.CommandHandlers\bin\Debug\AccountBook.Commands.dll
+E:\kikao-apps\account-book\AccountBook.CommandHandlers\bin\Debug\AccountBook.Model.dll
+E:\kikao-apps\account-book\AccountBook.CommandHandlers\bin\Debug\Apworks.dll
+E:\kikao-apps\account-book\AccountBook.CommandHandlers\bin\Debug\AccountBook.Events.dll
+E:\kikao-apps\account-book\AccountBook.CommandHandlers\bin\Debug\Castle.Core.dll
+E:\kikao-apps\account-book\AccountBook.CommandHandlers\bin\Debug\AccountBook.Commands.pdb
+E:\kikao-apps\account-book\AccountBook.CommandHandlers\bin\Debug\AccountBook.Model.pdb
+E:\kikao-apps\account-book\AccountBook.CommandHandlers\bin\Debug\Apworks.pdb
+E:\kikao-apps\account-book\AccountBook.CommandHandlers\bin\Debug\AccountBook.Events.pdb
+E:\kikao-apps\account-book\AccountBook.CommandHandlers\obj\Debug\AccountBook.CommandHandlers.csprojResolveAssemblyReference.cache
+E:\kikao-apps\account-book\AccountBook.CommandHandlers\obj\Debug\AccountBook.CommandHandlers.dll
+E:\kikao-apps\account-book\AccountBook.CommandHandlers\obj\Debug\AccountBook.CommandHandlers.pdb

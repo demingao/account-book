@@ -1,0 +1,16 @@
+E:\OpenSourceSystem\apworks\src\Apworks\bin\Debug\Apworks.dll
+E:\OpenSourceSystem\apworks\src\Apworks\bin\Debug\Apworks.pdb
+E:\OpenSourceSystem\apworks\src\Apworks\bin\Debug\Castle.Core.dll
+E:\OpenSourceSystem\apworks\src\Apworks\bin\Debug\Castle.Core.xml
+E:\OpenSourceSystem\apworks\src\Apworks\obj\Debug\Apworks.csprojResolveAssemblyReference.cache
+E:\OpenSourceSystem\apworks\src\Apworks\obj\Debug\Apworks.Properties.Resources.resources
+E:\OpenSourceSystem\apworks\src\Apworks\obj\Debug\Apworks.csproj.GenerateResource.Cache
+E:\OpenSourceSystem\apworks\src\Apworks\obj\Debug\Apworks.dll
+E:\OpenSourceSystem\apworks\src\Apworks\obj\Debug\Apworks.pdb
+E:\kikao-apps\account-book\Apworks\bin\Debug\Apworks.dll
+E:\kikao-apps\account-book\Apworks\bin\Debug\Apworks.pdb
+E:\kikao-apps\account-book\Apworks\obj\Debug\Apworks.Properties.Resources.resources
+E:\kikao-apps\account-book\Apworks\obj\Debug\Apworks.csproj.GenerateResource.Cache
+E:\kikao-apps\account-book\Apworks\obj\Debug\Apworks.dll
+E:\kikao-apps\account-book\Apworks\obj\Debug\Apworks.pdb
+E:\kikao-apps\account-book\Apworks\obj\Debug\Apworks.csprojResolveAssemblyReference.cache

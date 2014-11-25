@@ -1,0 +1,8 @@
+E:\kikao-apps\account-book\AccountBook.Infrastructure\bin\Debug\AccountBook.Infrastructure.dll
+E:\kikao-apps\account-book\AccountBook.Infrastructure\bin\Debug\AccountBook.Infrastructure.pdb
+E:\kikao-apps\account-book\AccountBook.Infrastructure\bin\Debug\Apworks.dll
+E:\kikao-apps\account-book\AccountBook.Infrastructure\bin\Debug\Castle.Core.dll
+E:\kikao-apps\account-book\AccountBook.Infrastructure\bin\Debug\Apworks.pdb
+E:\kikao-apps\account-book\AccountBook.Infrastructure\obj\Debug\AccountBook.Infrastructure.csprojResolveAssemblyReference.cache
+E:\kikao-apps\account-book\AccountBook.Infrastructure\obj\Debug\AccountBook.Infrastructure.dll
+E:\kikao-apps\account-book\AccountBook.Infrastructure\obj\Debug\AccountBook.Infrastructure.pdb

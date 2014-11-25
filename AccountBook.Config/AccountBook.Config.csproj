@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{49E5957F-9DCA-4235-A0B1-992DCAA37FCB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AccountBook.Config</RootNamespace>
+    <AssemblyName>AccountBook.Config</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Castle.Core">
+      <HintPath>..\packages\Castle.Core.3.2.2\lib\net45\Castle.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="FluentNHibernate, Version=1.4.0.0, Culture=neutral, PublicKeyToken=8aa435e3cb308880, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\FluentNHibernate.1.4.0.0\lib\net35\FluentNHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity, Version=1.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Unity.3.0.1304.1\lib\Net45\Microsoft.Practices.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity.Configuration">
+      <HintPath>..\packages\Unity.3.0.1304.1\lib\Net45\Microsoft.Practices.Unity.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate, Version=3.3.1.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\NHibernate.3.3.4.4000\lib\Net35\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountBook.cs" />
+    <Compile Include="Mapping\AccountMapping.cs" />
+    <Compile Include="Mapping\CommodityMapping.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AccountBook.CommandHandlers\AccountBook.CommandHandlers.csproj">
+      <Project>{7ca08eb6-c161-4c01-9c75-6c9b8b08981d}</Project>
+      <Name>AccountBook.CommandHandlers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AccountBook.Commands\AccountBook.Commands.csproj">
+      <Project>{24d78789-af91-4a48-aef2-f4afa10dca47}</Project>
+      <Name>AccountBook.Commands</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AccountBook.EventHandlers\AccountBook.EventHandlers.csproj">
+      <Project>{ecea6f38-7770-4c56-8b9d-b94c6549915f}</Project>
+      <Name>AccountBook.EventHandlers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AccountBook.Events\AccountBook.Events.csproj">
+      <Project>{54591d18-a4c0-4381-a692-726bab8f031a}</Project>
+      <Name>AccountBook.Events</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AccountBook.Infrastructure\AccountBook.Infrastructure.csproj">
+      <Project>{57d73ec2-32f3-4c6d-8032-6e874b82af5b}</Project>
+      <Name>AccountBook.Infrastructure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AccountBook.Model\AccountBook.Model.csproj">
+      <Project>{9dfec9fb-1391-4016-9af0-39d027db1185}</Project>
+      <Name>AccountBook.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Apworks.Bus.DirectBus\Apworks.Bus.DirectBus.csproj">
+      <Project>{b9d8e0ac-7cc8-4823-9be5-9389831d093d}</Project>
+      <Name>Apworks.Bus.DirectBus</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Apworks.Events.Storage.General\Apworks.Events.Storage.General.csproj">
+      <Project>{562ae750-3eb7-42a6-9297-c7c941723670}</Project>
+      <Name>Apworks.Events.Storage.General</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Apworks.ObjectContainers.Unity\Apworks.ObjectContainers.Unity.csproj">
+      <Project>{c65c063a-9b9d-47db-8011-df4bd75cde8b}</Project>
+      <Name>Apworks.ObjectContainers.Unity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Apworks.Repositories.NHibernate\Apworks.Repositories.NHibernate.csproj">
+      <Project>{38cc8b20-5eb7-478a-8c7e-972bf3069319}</Project>
+      <Name>Apworks.Repositories.NHibernate</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Apworks\Apworks.csproj">
+      <Project>{aabea3f6-07bc-4eb8-9cbf-68baaf381bae}</Project>
+      <Name>Apworks</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

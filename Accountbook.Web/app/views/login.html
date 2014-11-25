@@ -1,0 +1,29 @@
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        <h2 class="panel-title">Login AccountBook</h2>
+    </div>
+    <div class="panel-body">
+        <form class="form" role="form">
+            <div class="input-group">
+                <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
+                <input type="email" class="form-control" id="loginname" placeholder="Name/Email"/>
+            </div>
+            <br/>
+            <div class="input-group">
+                <span class="input-group-addon"><span class="glyphicon glyphicon-asterisk"></span></span>
+                <input type="password" class="form-control" id="password" placeholder="Password"/>
+            </div>
+            <div class="checkbox">
+                <label>
+                    <input type="checkbox"/> Remember me
+                </label>
+            </div>
+            <div>
+                <button ng-click="toRegister();" class="btn btn-link">Register an account</button>
+            </div>
+            <div class="pull-right">
+                <button type="submit" class="btn btn-success">Sign in</button>
+            </div>
+        </form>
+    </div>
+</div>

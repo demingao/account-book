@@ -1,0 +1,21 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <h1>2014 AccountBook记录您的每一笔消费</h1>
+
+            <p>
+                <img src="images/ab.jpg">
+            </p>
+        </div>
+        <div class="col-md-4">
+            <br/>
+            <br/>
+            <div ng-if="tab.toLowerCase()=='login'">
+                <ab-login></ab-login>
+            </div>
+            <div ng-if="tab.toLowerCase()=='register'">
+                <ab-register></ab-register>
+            </div>
+        </div>
+    </div>
+</div>

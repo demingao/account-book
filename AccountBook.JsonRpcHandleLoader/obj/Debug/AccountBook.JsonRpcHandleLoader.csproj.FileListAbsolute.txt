@@ -1,0 +1,7 @@
+E:\kikao-apps\account-book\AccountBook.JsonRpcHandleLoader\bin\Debug\AccountBook.JsonRpcHandleLoader.dll
+E:\kikao-apps\account-book\AccountBook.JsonRpcHandleLoader\bin\Debug\AccountBook.JsonRpcHandleLoader.pdb
+E:\kikao-apps\account-book\AccountBook.JsonRpcHandleLoader\bin\Debug\AustinHarris.JsonRpc.dll
+E:\kikao-apps\account-book\AccountBook.JsonRpcHandleLoader\bin\Debug\Newtonsoft.Json.dll
+E:\kikao-apps\account-book\AccountBook.JsonRpcHandleLoader\obj\Debug\AccountBook.JsonRpcHandleLoader.dll
+E:\kikao-apps\account-book\AccountBook.JsonRpcHandleLoader\obj\Debug\AccountBook.JsonRpcHandleLoader.pdb
+E:\kikao-apps\account-book\AccountBook.JsonRpcHandleLoader\obj\Debug\AccountBook.JsonRpcHandleLoader.csprojResolveAssemblyReference.cache

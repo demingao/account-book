@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{ECEA6F38-7770-4C56-8B9D-B94C6549915F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AccountBook.EventHandlers</RootNamespace>
+    <AssemblyName>AccountBook.EventHandlers</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Account\AccountRegisterEventHandler.cs" />
+    <Compile Include="Commodity\CommodityCreateEventHandler.cs" />
+    <Compile Include="Commodity\CommodityDeleteEventHandler.cs" />
+    <Compile Include="Commodity\CommodityModifyEventHandler.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AccountBook.Events\AccountBook.Events.csproj">
+      <Project>{54591d18-a4c0-4381-a692-726bab8f031a}</Project>
+      <Name>AccountBook.Events</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AccountBook.Model\AccountBook.Model.csproj">
+      <Project>{9dfec9fb-1391-4016-9af0-39d027db1185}</Project>
+      <Name>AccountBook.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Apworks.Repositories.NHibernate\Apworks.Repositories.NHibernate.csproj">
+      <Project>{38cc8b20-5eb7-478a-8c7e-972bf3069319}</Project>
+      <Name>Apworks.Repositories.NHibernate</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Apworks\Apworks.csproj">
+      <Project>{aabea3f6-07bc-4eb8-9cbf-68baaf381bae}</Project>
+      <Name>Apworks</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

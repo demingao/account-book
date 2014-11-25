@@ -1,0 +1,8 @@
+E:\kikao-apps\account-book\AccountBook.Model\bin\Debug\AccountBook.Model.dll
+E:\kikao-apps\account-book\AccountBook.Model\bin\Debug\AccountBook.Model.pdb
+E:\kikao-apps\account-book\AccountBook.Model\bin\Debug\AccountBook.Events.dll
+E:\kikao-apps\account-book\AccountBook.Model\bin\Debug\Apworks.dll
+E:\kikao-apps\account-book\AccountBook.Model\bin\Debug\AccountBook.Events.pdb
+E:\kikao-apps\account-book\AccountBook.Model\obj\Debug\AccountBook.Model.csprojResolveAssemblyReference.cache
+E:\kikao-apps\account-book\AccountBook.Model\obj\Debug\AccountBook.Model.dll
+E:\kikao-apps\account-book\AccountBook.Model\obj\Debug\AccountBook.Model.pdb

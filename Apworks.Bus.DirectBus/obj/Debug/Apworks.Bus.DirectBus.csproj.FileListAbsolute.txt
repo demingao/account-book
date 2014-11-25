@@ -1,0 +1,17 @@
+E:\OpenSourceSystem\apworks\src\Apworks.Bus.DirectBus\obj\Debug\Apworks.Bus.DirectBus.csprojResolveAssemblyReference.cache
+E:\OpenSourceSystem\apworks\src\Apworks.Bus.DirectBus\bin\Debug\Apworks.Bus.DirectBus.dll
+E:\OpenSourceSystem\apworks\src\Apworks.Bus.DirectBus\bin\Debug\Apworks.Bus.DirectBus.pdb
+E:\OpenSourceSystem\apworks\src\Apworks.Bus.DirectBus\bin\Debug\Apworks.dll
+E:\OpenSourceSystem\apworks\src\Apworks.Bus.DirectBus\bin\Debug\Castle.Core.dll
+E:\OpenSourceSystem\apworks\src\Apworks.Bus.DirectBus\bin\Debug\Apworks.pdb
+E:\OpenSourceSystem\apworks\src\Apworks.Bus.DirectBus\bin\Debug\Castle.Core.xml
+E:\OpenSourceSystem\apworks\src\Apworks.Bus.DirectBus\obj\Debug\Apworks.Bus.DirectBus.dll
+E:\OpenSourceSystem\apworks\src\Apworks.Bus.DirectBus\obj\Debug\Apworks.Bus.DirectBus.pdb
+E:\kikao-apps\account-book\Apworks.Bus.DirectBus\bin\Debug\Apworks.Bus.DirectBus.dll
+E:\kikao-apps\account-book\Apworks.Bus.DirectBus\bin\Debug\Apworks.Bus.DirectBus.pdb
+E:\kikao-apps\account-book\Apworks.Bus.DirectBus\bin\Debug\Apworks.dll
+E:\kikao-apps\account-book\Apworks.Bus.DirectBus\bin\Debug\Castle.Core.dll
+E:\kikao-apps\account-book\Apworks.Bus.DirectBus\bin\Debug\Apworks.pdb
+E:\kikao-apps\account-book\Apworks.Bus.DirectBus\obj\Debug\Apworks.Bus.DirectBus.dll
+E:\kikao-apps\account-book\Apworks.Bus.DirectBus\obj\Debug\Apworks.Bus.DirectBus.pdb
+E:\kikao-apps\account-book\Apworks.Bus.DirectBus\obj\Debug\Apworks.Bus.DirectBus.csprojResolveAssemblyReference.cache
