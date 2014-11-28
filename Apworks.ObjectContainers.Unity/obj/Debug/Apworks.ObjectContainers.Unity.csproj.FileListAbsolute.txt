@@ -22,3 +22,14 @@ E:\kikao-apps\account-book\Apworks.ObjectContainers.Unity\bin\Debug\Microsoft.Pr
 E:\kikao-apps\account-book\Apworks.ObjectContainers.Unity\bin\Debug\Apworks.pdb
 E:\kikao-apps\account-book\Apworks.ObjectContainers.Unity\bin\Debug\Microsoft.Practices.Unity.xml
 E:\kikao-apps\account-book\Apworks.ObjectContainers.Unity\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\git\kikao-apps\account-book\Apworks.ObjectContainers.Unity\bin\Debug\Apworks.ObjectContainers.Unity.dll
+E:\git\kikao-apps\account-book\Apworks.ObjectContainers.Unity\bin\Debug\Apworks.ObjectContainers.Unity.pdb
+E:\git\kikao-apps\account-book\Apworks.ObjectContainers.Unity\bin\Debug\Apworks.dll
+E:\git\kikao-apps\account-book\Apworks.ObjectContainers.Unity\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\git\kikao-apps\account-book\Apworks.ObjectContainers.Unity\bin\Debug\Microsoft.Practices.Unity.dll
+E:\git\kikao-apps\account-book\Apworks.ObjectContainers.Unity\bin\Debug\Apworks.pdb
+E:\git\kikao-apps\account-book\Apworks.ObjectContainers.Unity\bin\Debug\Microsoft.Practices.Unity.xml
+E:\git\kikao-apps\account-book\Apworks.ObjectContainers.Unity\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\git\kikao-apps\account-book\Apworks.ObjectContainers.Unity\obj\Debug\Apworks.ObjectContainers.Unity.csprojResolveAssemblyReference.cache
+E:\git\kikao-apps\account-book\Apworks.ObjectContainers.Unity\obj\Debug\Apworks.ObjectContainers.Unity.dll
+E:\git\kikao-apps\account-book\Apworks.ObjectContainers.Unity\obj\Debug\Apworks.ObjectContainers.Unity.pdb

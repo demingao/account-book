@@ -15,3 +15,11 @@ E:\kikao-apps\account-book\Apworks.Storage.General\bin\Debug\Apworks.pdb
 E:\kikao-apps\account-book\Apworks.Storage.General\obj\Debug\Apworks.Storage.General.csprojResolveAssemblyReference.cache
 E:\kikao-apps\account-book\Apworks.Storage.General\obj\Debug\Apworks.Storage.General.dll
 E:\kikao-apps\account-book\Apworks.Storage.General\obj\Debug\Apworks.Storage.General.pdb
+E:\git\kikao-apps\account-book\Apworks.Storage.General\bin\Debug\Apworks.Storage.General.dll
+E:\git\kikao-apps\account-book\Apworks.Storage.General\bin\Debug\Apworks.Storage.General.pdb
+E:\git\kikao-apps\account-book\Apworks.Storage.General\bin\Debug\Apworks.dll
+E:\git\kikao-apps\account-book\Apworks.Storage.General\bin\Debug\Castle.Core.dll
+E:\git\kikao-apps\account-book\Apworks.Storage.General\bin\Debug\Apworks.pdb
+E:\git\kikao-apps\account-book\Apworks.Storage.General\obj\Debug\Apworks.Storage.General.csprojResolveAssemblyReference.cache
+E:\git\kikao-apps\account-book\Apworks.Storage.General\obj\Debug\Apworks.Storage.General.dll
+E:\git\kikao-apps\account-book\Apworks.Storage.General\obj\Debug\Apworks.Storage.General.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "abRegister.js",
+  "sourceRoot": "",
+  "sources": [
+    "abRegister.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,EAAA,OAAO,CAAC,MAAR,CAAe,OAAf,CACA,CAAC,SADD,CACW,YADX,EAEA,CAAA,SAAA,KAAA,GAAA;WAAA,SAAA,GAAA;aACE;AAAA,QAAA,WAAA,EAAa,qBAAb;AAAA,QACA,QAAA,EAAU,GADV;QADF;IAAA,EAAA;EAAA,CAAA,CAAA,CAAA,IAAA,CAFA,CAAA,CAAA;AAAA"
+}

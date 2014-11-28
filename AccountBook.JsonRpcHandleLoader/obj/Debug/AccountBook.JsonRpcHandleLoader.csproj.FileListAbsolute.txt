@@ -5,3 +5,10 @@ E:\kikao-apps\account-book\AccountBook.JsonRpcHandleLoader\bin\Debug\Newtonsoft.
 E:\kikao-apps\account-book\AccountBook.JsonRpcHandleLoader\obj\Debug\AccountBook.JsonRpcHandleLoader.dll
 E:\kikao-apps\account-book\AccountBook.JsonRpcHandleLoader\obj\Debug\AccountBook.JsonRpcHandleLoader.pdb
 E:\kikao-apps\account-book\AccountBook.JsonRpcHandleLoader\obj\Debug\AccountBook.JsonRpcHandleLoader.csprojResolveAssemblyReference.cache
+E:\git\kikao-apps\account-book\AccountBook.JsonRpcHandleLoader\bin\Debug\AccountBook.JsonRpcHandleLoader.dll
+E:\git\kikao-apps\account-book\AccountBook.JsonRpcHandleLoader\bin\Debug\AccountBook.JsonRpcHandleLoader.pdb
+E:\git\kikao-apps\account-book\AccountBook.JsonRpcHandleLoader\bin\Debug\AustinHarris.JsonRpc.dll
+E:\git\kikao-apps\account-book\AccountBook.JsonRpcHandleLoader\bin\Debug\Newtonsoft.Json.dll
+E:\git\kikao-apps\account-book\AccountBook.JsonRpcHandleLoader\obj\Debug\AccountBook.JsonRpcHandleLoader.csprojResolveAssemblyReference.cache
+E:\git\kikao-apps\account-book\AccountBook.JsonRpcHandleLoader\obj\Debug\AccountBook.JsonRpcHandleLoader.dll
+E:\git\kikao-apps\account-book\AccountBook.JsonRpcHandleLoader\obj\Debug\AccountBook.JsonRpcHandleLoader.pdb

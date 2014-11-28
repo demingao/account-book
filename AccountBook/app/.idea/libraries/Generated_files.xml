@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/scripts/directives/abNavigate.js" />
+        <item url="file://$PROJECT_DIR$/scripts/directives/abLogin.js" />
+        <item url="file://$PROJECT_DIR$/scripts/controllers/user.js" />
+        <item url="file://$PROJECT_DIR$/scripts/controllers/veiw.js" />
+        <item url="file://$PROJECT_DIR$/scripts/app.js" />
+        <item url="file://$PROJECT_DIR$/scripts/directives/abRegister.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/scripts/directives/abNavigate.js" />
+      <root url="file://$PROJECT_DIR$/scripts/directives/abLogin.js" />
+      <root url="file://$PROJECT_DIR$/scripts/controllers/user.js" />
+      <root url="file://$PROJECT_DIR$/scripts/app.js" />
+      <root url="file://$PROJECT_DIR$/scripts/controllers/veiw.js" />
+      <root url="file://$PROJECT_DIR$/scripts/directives/abRegister.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

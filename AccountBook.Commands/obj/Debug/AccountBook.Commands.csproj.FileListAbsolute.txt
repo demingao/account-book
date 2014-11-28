@@ -6,3 +6,11 @@ E:\kikao-apps\account-book\AccountBook.Commands\bin\Debug\Apworks.pdb
 E:\kikao-apps\account-book\AccountBook.Commands\obj\Debug\AccountBook.Commands.dll
 E:\kikao-apps\account-book\AccountBook.Commands\obj\Debug\AccountBook.Commands.pdb
 E:\kikao-apps\account-book\AccountBook.Commands\obj\Debug\AccountBook.Commands.csprojResolveAssemblyReference.cache
+E:\git\kikao-apps\account-book\AccountBook.Commands\bin\Debug\AccountBook.Commands.dll
+E:\git\kikao-apps\account-book\AccountBook.Commands\bin\Debug\AccountBook.Commands.pdb
+E:\git\kikao-apps\account-book\AccountBook.Commands\bin\Debug\Apworks.dll
+E:\git\kikao-apps\account-book\AccountBook.Commands\bin\Debug\Castle.Core.dll
+E:\git\kikao-apps\account-book\AccountBook.Commands\bin\Debug\Apworks.pdb
+E:\git\kikao-apps\account-book\AccountBook.Commands\obj\Debug\AccountBook.Commands.csprojResolveAssemblyReference.cache
+E:\git\kikao-apps\account-book\AccountBook.Commands\obj\Debug\AccountBook.Commands.dll
+E:\git\kikao-apps\account-book\AccountBook.Commands\obj\Debug\AccountBook.Commands.pdb

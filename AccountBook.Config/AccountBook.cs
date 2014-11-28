@@ -48,8 +48,8 @@ namespace AccountBook.Config
 
     public class AccountBook
     {
-        public const string ApworksCQRSArchEventStoreConnectionString = @"Server=KIKAO\KIKAOSQLSERVER;Database=ApworksCQRSArchEventStore;Integrated Security=SSPI;User ID=sa;Password=p@ssw0rd;";
-        public const string AoccountBookConnectionString = @"Data Source=KIKAO\KIKAOSQLSERVER;Initial Catalog=AoccountBook;Integrated Security=True;Pooling=False;MultipleActiveResultSets=True;User ID=sa;Password=p@ssw0rd;";
+        public const string ApworksCQRSArchEventStoreConnectionString = @"Server=kikao-pc;Database=ApworksCQRSArchEventStore;Integrated Security=SSPI;User ID=sa;Password=p@ssw0rd;";
+        public const string AoccountBookConnectionString = @"Data Source=kikao-pc;Initial Catalog=AoccountBook;Integrated Security=True;Pooling=False;MultipleActiveResultSets=True;User ID=sa;Password=p@ssw0rd;";
         public const string CQRSTestDB_Table_DomainEvents = @"DomainEvents";
         public const string CQRSTestDB_Table_Snapshots = @"Snapshots";
         public const string EventBus_MessageQueue = @"EventBusMQ";

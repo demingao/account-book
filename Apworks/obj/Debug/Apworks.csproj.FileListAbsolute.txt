@@ -14,3 +14,10 @@ E:\kikao-apps\account-book\Apworks\obj\Debug\Apworks.csproj.GenerateResource.Cac
 E:\kikao-apps\account-book\Apworks\obj\Debug\Apworks.dll
 E:\kikao-apps\account-book\Apworks\obj\Debug\Apworks.pdb
 E:\kikao-apps\account-book\Apworks\obj\Debug\Apworks.csprojResolveAssemblyReference.cache
+E:\git\kikao-apps\account-book\Apworks\bin\Debug\Apworks.dll
+E:\git\kikao-apps\account-book\Apworks\bin\Debug\Apworks.pdb
+E:\git\kikao-apps\account-book\Apworks\obj\Debug\Apworks.csprojResolveAssemblyReference.cache
+E:\git\kikao-apps\account-book\Apworks\obj\Debug\Apworks.Properties.Resources.resources
+E:\git\kikao-apps\account-book\Apworks\obj\Debug\Apworks.csproj.GenerateResource.Cache
+E:\git\kikao-apps\account-book\Apworks\obj\Debug\Apworks.dll
+E:\git\kikao-apps\account-book\Apworks\obj\Debug\Apworks.pdb
